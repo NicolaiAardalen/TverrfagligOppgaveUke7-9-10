@@ -27,7 +27,7 @@
         <asp:Image ID="Image" runat="server" width="300px"/>
         <br />
         <br />
-            <asp:Label ID="ArlyText" runat="server" Text=""></asp:Label>
+        <asp:Label ID="ArlyText" runat="server" Text=""></asp:Label>
         <br />
         <br />
         <br />
