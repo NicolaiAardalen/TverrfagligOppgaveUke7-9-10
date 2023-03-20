@@ -101,7 +101,7 @@ namespace Default
                     GetImage();
                     DropDownListImg.Items.Clear();
                     Dropdown();
-                    return;
+                    break;
                 }
             }
         }
